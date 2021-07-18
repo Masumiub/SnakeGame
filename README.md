@@ -1,2 +1,2 @@
 # SnakeGame-by-C++
-This is my test document
+A simple Snake Game by C++
